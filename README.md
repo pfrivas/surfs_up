@@ -2,7 +2,9 @@
 
 ## Overview of the analysis: 
 ### Purpose
-Explain the purpose of this analysis.
+The reason for this analysis is to examine weather trends (precipitation, temperature) in June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+
+The analysis was done by explaining the structures, interactions, and types of data of a provided dataset, differentiatiating between SQLite and PostgreSQL databases, using SQLAlchemy to connect to and query a SQLite database and using statistics like minimum, maximum, and average to analyze data, and designing a Flask application using data.
 
 ### Resources
 - Python
