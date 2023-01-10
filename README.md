@@ -1,13 +1,21 @@
 # surfs_up
 
 ## Overview of the analysis: 
+### Purpose
 Explain the purpose of this analysis.
+
+### Resources
+- Python
+- SQLite
+- SQLAlchemy
+- Flask
+
 ## Results: 
-### Deliverable #1
+### Summary Statistics for June
 -
 -
 -
-### Deliverable #2
+### Summary Statistics for December
 -
 -
 -
