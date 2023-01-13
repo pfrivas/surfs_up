@@ -15,12 +15,14 @@ The analysis was done by explaining the structures, interactions, and types of d
 - Mean Temp in June is 75
 - Max temp in June is 85
 - Min Temp in June is 64 
-![Summary Statistics for June](https://github.com/pfrivas/surfs_up/blob/main/Resources/June%20Statistics.png)
+
+- ![Summary Statistics for June](https://github.com/pfrivas/surfs_up/blob/main/Resources/June%20Statistics.png)
 ### Summary Statistics for December
 - Mean Temp in December is 71
 - Max temp in December is 83
 - Min Temp in December is 56
-![Summary Statistics for December](https://github.com/pfrivas/surfs_up/blob/main/Resources/December%20Statistics.png)
+
+- ![Summary Statistics for December](https://github.com/pfrivas/surfs_up/blob/main/Resources/December%20Statistics.png)
 
 ## Summary: 
 ### Result Summary
