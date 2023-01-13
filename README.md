@@ -26,7 +26,7 @@ The analysis was done by explaining the structures, interactions, and types of d
 
 ## Summary: 
 ### Result Summary
-- The mean temperatures for June (75) and december (71) are only 4 degrees different however the month of december has more variation in temperatures and an 8 degree difference in the minimum temperature (56 vs 64 in June) which means that based on this data alone the shop could still be open in the winter and there would still be a demand for ice cream but maybe the shop could have shorter hours in december. 
+- The mean temperatures for June (75) and december (71) are only 4 degrees different with the maximum temperatures are only 2 degrees different (85 in june vs 83 in december). However, the month of december has more variation in temperatures and an 8 degree difference in the minimum temperature (56 vs 64 in June) which means that based on this data alone the shop could still be open in the winter and there would still be a demand for ice cream but maybe the shop could have shorter hours in december. 
 
 ### Additional Querues that could be performed to gather more weather data for June and December.
 - The first query that could be conducted is narrowing in on the temperature changes within different areas of the island instead of looking at the island as a whole in order to determine the best location on the island to set up the shop
