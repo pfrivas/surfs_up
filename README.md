@@ -30,4 +30,4 @@ The analysis was done by explaining the structures, interactions, and types of d
 
 ### Additional Querues that could be performed to gather more weather data for June and December.
 - The first query that could be conducted is narrowing in on the temperature changes within different areas of the island instead of looking at the island as a whole in order to determine the best location on the island to set up the shop
-- The second query that could be conducted are other weather conditions besides temperature that could affect the buisness year-round such as precipitation, wind speed, high vs. low tide, etc. in order to further analyza weather the shop could be sustainable year round.
+- The second query that could be conducted are other weather conditions besides temperature that could affect the buisness year-round such as precipitation, wind speed, high vs. low tide, etc. in order to further analyze weather the shop could be sustainable year round.
